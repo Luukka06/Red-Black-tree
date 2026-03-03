@@ -3,14 +3,13 @@
 # Overview
 This project implements a fully functional Red-Black tree(RBT) - a self-balancing Binary search Tree that guarantees O(logn) time complexity for insertion, deletion and search operations. The implementation includes both iterative and recursive approaches for core operations to demonstrate algorithmic differences.
 
---------------------------- Project Structure ---------------------------
-Red-Black-tree
-|--> Node.h                # Node class definition
-|---> RedBlackTree.h       # RedBlackTree class interface
-|----> RedBlackTree.cpp    # RedBlackTree class implementation
-|-----> Driver.cpp         # Driver/program tester
-|------> README.md         # Project description
--------------------------------------------------------------------------
+# Project Structure 
+Red-Black-Tree/
+├── Node.h           # Node class definition
+├── RedBlackTree.h   # RedBlackTree class interface
+├── RedBlackTree.cpp # RedBlackTree class implementation
+├── Driver.cpp       # Driver/program tester
+└── README.md        # Project description
 
 ## Features
 - Iterative and Recursive Insertion
