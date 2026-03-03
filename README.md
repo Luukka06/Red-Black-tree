@@ -5,11 +5,11 @@ This project implements a fully functional Red-Black tree(RBT) - a self-balancin
 
 # Project Structure 
 Red-Black-Tree/
-├── Node.h           # Node class definition
-├── RedBlackTree.h   # RedBlackTree class interface
-├── RedBlackTree.cpp # RedBlackTree class implementation
-├── Driver.cpp       # Driver/program tester
-└── README.md        # Project description
+- Node.h           # Node class definition
+- RedBlackTree.h   # RedBlackTree class interface
+- RedBlackTree.cpp # RedBlackTree class implementation
+- Driver.cpp       # Driver/program tester
+- README.md        # Project description
 
 ## Features
 - Iterative and Recursive Insertion
